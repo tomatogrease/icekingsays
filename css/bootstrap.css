@@ -5273,7 +5273,7 @@ body {
   z-index: 1;
 }
 .iceKing {
-  background: transparent url('img/ice_king.png') left -10px no-repeat;
+  background: transparent url('../img/ice_king.png') left -10px no-repeat;
   height: 400px;
 }
 .tomatoBox {
